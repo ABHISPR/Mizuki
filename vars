@@ -1,7 +1,7 @@
 {
-   "name": "Mizuki Bot",
+   "name": "😅💚 𝟐𝟒 𝐇𝐎𝐔𝐑𝐒 𝐃𝐑𝐀𝐌𝐀 💙😅",
    "description": "An Anime themed Telegram group management bot.",
-   "repository": "https://github.com/ImJanindu/Mizuki",
+   "repository": "https://github.com/ABHISPR/Mizuki",
    "addons": [
       {
          "options": {
@@ -11,17 +11,17 @@
       }
    ],
    "env": {
-      "TOKEN": {
+      "TOKEN": 1945926455:AAGh8jIaRIDH3XucS9df-CMhMdVFNxvFAVk
          "description": "Your bot token. Get one from @BotFather",
          "required": true,
          "value": ""
       },
-      "API_ID": {
+      "API_ID": 7649193
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
          "value": ""
       },
-      "API_HASH": {
+      "API_HASH": f3a395f2561b2e115658a058fb798860
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
          "value": ""
@@ -31,16 +31,16 @@
          "required": false,
          "value": ""
       },      
-      "OWNER_ID": {
+      "OWNER_ID": 1913424570
          "description": "Your user ID as an integer.",
          "required": true,
          "value": ""
       },
-      "OWNER_USERNAME": {
+      "OWNER_USERNAME": ABHIxMANAGEMENT
          "description": "Your username without the @",
          "value": ""
       },
-      "SUPPORT_CHAT": {
+      "SUPPORT_CHAT": ABHI_BOT_SUPPORT
          "description": "Your Telegram support group chat username without '@' like: InfinityJE",
          "required": true,
          "value": ""
@@ -55,27 +55,27 @@
          "required": true,
          "value": ""
       },
-      "HEROKU_API_KEY": {
+      "HEROKU_API_KEY": 12b402af-46f0-43a4-bfdc-bcc60e4b2c03
          "description": "Your heroku API key.",
          "required": true,
          "value": ""
       },
-      "HEROKU_APP_NAME": {
+      "HEROKU_APP_NAME": abhimanagement
          "description": "Your heroku app name.",
          "required": true,
          "value": ""
       },
-      "UPSTREAM_REPO": {
+      "UPSTREAM_REPO": https://github.com/ABHISPR
          "description": "Your bot github repo url.",
          "required": true,
          "value": "https://github.com/ImJanindu/Mizuki"
       },      
-      "CASH_API_KEY": {
+      "CASH_API_KEY": 7HT375AWJYETQGGO
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
          "required": true,
          "value": ""
       },
-      "TIME_API_KEY": {
+      "TIME_API_KEY": 8IRHGWKUR1QO
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
          "value": ""
@@ -133,7 +133,7 @@
          "required": false,
          "value": ""
       },
-      "URL": {
+      "URL": https://abhimanagement.herokuapp.com/
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
          "value": ""
@@ -148,26 +148,26 @@
          "required": false,
          "value": ""
       },
-      "ALLOW_EXCL": {
+      "ALLOW_EXCL": .
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
          "value": "True"
       },      
-      "STRING_SESSION ": {
+      "STRING_SESSION ": AQBUWB4gkZSI9udB-ZfxwE6EEbWD_zNtIVRr_qHYRu7h5ajczBEzoKQuXg8JuoX20RUcfHGp8vhmrD5-xHjq21r-UtR1t5VYxO19vJmbhs04XJDR02VKk8YmWN3aL_IMBom7zfUKr1EXdFgu8Zh45dzkYKhGrxc5Q88w_19Y1ZQfVcXH6QG2a2ir6ffPAP3hNFnpHUM0Z4Cl9yyVLZ4zrsjjZZZcDZuk9A2rDJYunewibnk7e4ve29Vci7SzEJj0Boc3WsXObrhbqh9_iEPC44ww6cB8g0nbANVQLl5cVwX_C8iRPLx7jrH7Pc6JzuneSPcyk81X65jiO7Wz7MlEF_cgyKugA
          "description": "Telethon string session from https://repl.it/@SpEcHiDe/GenerateStringSession",
          "required": true,
          "value": ""
       }, 
-      "MONGO_DB_URI": {
+      "MONGO_DB_URI": mongodb+srv://kbTTLDVlSKOOVIzp: ABHISINGH@cluster0.jq249.mongodb.net/kbTTLDVlSKOOVIzp?retryWrites=true&w=majority
          "description": "Mongo db URI here. Get it from mongodb.com create acc. Create organization. Create a cluster connection mode from everywhere give user pass get uri. replace <password> with pass <name> with Mizuki",
          "required": true,
          "value": ""   
       },  
-      "OPENWEATHERMAP_ID": {
+      "OPENWEATHERMAP_ID": 8b892029c12ac8a0b20cf0efcb6196a2
          "description": "Get weather API from https://openweathermap.org/api",
          "required": true,
          "value": ""
       },    
-      "BOT_ID": {
+      "BOT_ID": 1945926455
          "description": "ID of bot.. get it from other bot",
          "required": true,
          "value": ""
